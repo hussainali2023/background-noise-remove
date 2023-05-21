@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  input {
+    width: 100%;
+  }  
